@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\MediaDaNota\MediaDaNota\bin\Debug\MediaDaNota.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\MediaDaNota\MediaDaNota\bin\Debug\MediaDaNota.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\MediaDaNota\MediaDaNota\bin\Debug\MediaDaNota.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\MediaDaNota\MediaDaNota\obj\Debug\MediaDaNota.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\MediaDaNota\MediaDaNota\obj\Debug\MediaDaNota.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\MediaDaNota\MediaDaNota\obj\Debug\MediaDaNota.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\MediaDaNota\MediaDaNota\obj\Debug\MediaDaNota.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\MediaDaNota\MediaDaNota\obj\Debug\MediaDaNota.pdb
